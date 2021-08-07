@@ -1,0 +1,7 @@
+[requires]
+asio/1.19.1
+
+[generators]
+cmake
+
+[options]
